@@ -13,7 +13,7 @@ I’m Noëlla—a curious mind navigating the ever-evolving world of technology 
 ---
 
 ## 🛠️ **My Tech Toolbox**
-- **🧑‍💻 Languages I Speak:** Python (my mainstay), Java (a growing passion), and enough R, Arduino, and JavaScript to bring ideas to life.
+- **🧑‍💻 Languages I Speak:** Python (my mainstay), Java (a growing passion), and enough R, Arduino to bring ideas to life.
 - **🌐 Visual Builders:** HTML and CSS to shape the web, with an eye on style and function.
 - **🔧 Environments I Love:** Jupyter Lab for exploration, VS Code for creative builds, and Eclipse for when the project calls for it.
 

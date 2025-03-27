@@ -1,30 +1,40 @@
-# Noëlla Buti  
-🎮 Aspiring Software Engineer | 🎨 Future Game Creator | 🌌 Tech Explorer  
+# Hi, I'm Noëlla Buti 👋  
+**CS + Data Science | Building with Python & Machine Learning | Learning Through Projects, Purpose & People**
 
-Hi, I’m Noëlla! I’m passionate about creating, learning, and bringing ideas to life through code. Whether it’s building games or solving problems with software, I love turning dreams into reality.  
+I'm a senior studying Computer Science with a Data Science emphasis at Bellevue College, passionate about creating solutions through code and data.
 
-## 🌟 What Drives Me
-- **Inventor at Heart**: Building projects is my way of expressing creativity and curiosity.  
-- **Game Enthusiast**: I’m inspired by the magic of games and aspire to design immersive, interactive worlds.  
-- **Lifelong Learner**: Every challenge is an opportunity to grow and improve.  
+I love working on projects that connect technical depth with real-world impact—whether it’s analyzing patterns, improving prediction accuracy, or making systems more efficient. Recently, I’ve built:
 
-## 🛠️ My Tech Skills
-- **Languages**: Python (my go-to), Java (new favorite), and some R, Arduino.  
-- **Web Tools**: HTML & CSS for styling and functionality.  
-- **Workspaces**: Jupyter Lab, VS Code, Eclipse.  
+- 💻 A Laptop Price Prediction model (📈 R² = 0.84)
+- 🌐 An income classification decision tree using the ID3 algorithm (📊 Accuracy = 82.35%)
 
-## 🌱 Beyond Tech
-- **Gym Lover**: Building strength in the gym and my career.  
-- **Nature Fan**: Trails and landscapes are my other inspiration.  
-- **Anime Buff & Gamer**: Storytelling and creativity keep me dreaming big.  
-- **Dancer**: Expressing myself through movement.  
+These projects sharpened my skills in Python, Scikit-learn, and machine learning. I enjoy building, learning, and growing through collaboration.
 
-## 📊 My Goals
-I’m exploring opportunities in software engineering, game development, and data science. My dream is to create apps and games that inspire others to dream big.  
+---
 
-## 🌟 Let’s Connect
-- 📧 **Email**: noella.buti@bellevuecollege.edu  
-- 🔗 **LinkedIn**: Noella Buti  
-- 🐙 **GitHub**: Noella Buti  
+## 🔧 Tech Stack  
+- **Languages:** Python (my go-to), Java (growing favorite), R (beginner), Arduino (tinkering stage)  
+- **Tools:** Jupyter Lab, Google Colab, VS Code, Git, Eclipse  
+- **Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, Plotly, Streamlit
 
-I’m an introvert, but I love meaningful conversations — let’s create something amazing together!
+---
+
+## 🎯 Currently Exploring  
+- Neural networks, classification models, and tuning techniques  
+- Data visualization and interactive app building (Streamlit)  
+- Game development (learning for fun, someday building!)
+
+---
+
+## 💡 A Bit More About Me  
+- 💪 Gym helps me build consistency and discipline  
+- 🎮 Anime + storytelling = my creative fuel  
+- 🌿 Weekend walks to reset and reflect  
+- 🙏 Faith and community work are central to me  
+
+---
+
+## 📬 Let’s Connect  
+- Email: **noella.buti@bellevuecollege.edu**  
+- LinkedIn: [Noella Buti](https://www.linkedin.com/in/noellab)  
+- GitHub: [NoellaButi](https://github.com/NoellaButi)

@@ -20,22 +20,23 @@ I have led and contributed to several technical projects focused on model develo
   Built a feedforward neural network using NumPy to classify handwritten digits from the MNIST dataset (Achieved 91.77% accuracy).
 
 - **Anime Synopsis Generator (Capstone Project)**  
-  Currently developing a prompt-based LSTM model to generate anime story synopses from structured user inputs, using cleaned and categorized datasets.
+  Designed and implemented a prompt-based LSTM model that generates anime story synopses based on genre, theme, and demographic prompts.  
+  🔗 [View Capstone Project on GitHub](https://github.com/YukiRivera/anime-story-generation)
 
-- **Multi-threaded Web Server (Assignment 2 – CS360)**  
-  Extended a single-threaded C web server into a multi-threaded version using POSIX threads, mutexes, and condition variables. Implemented thread pooling and a bounded buffer for concurrent request handling.
+---
 
+## Additional Projects  
 - **mysh – Simple Command Shell in C (Assignment 1 – CS360)**  
-  Designed and implemented a Unix-style command-line shell supporting built-in commands (`cd`, `pwd`, `exit`) and external command execution via `fork`, `execvp`, and `wait`.
+  Created a custom Unix-style shell that supports built-in commands (`cd`, `pwd`, `exit`) and executes external programs using `fork`, `execvp`, and `wait`.
 
-- **Additional Projects**  
-  - Binary counter and LCD game using Arduino  
-  - Password-protected lock system (keypad + LCD)  
-  - Graham’s Scan Convex Hull visualization  
-  - Water drainage simulation using Union-Find (Java)  
-  - Assembly menu interface and message printing programs
+- **Multi-threaded Web Server in C (Assignment 2 – CS360)**  
+  Converted a single-threaded web server to a multi-threaded architecture using POSIX threads, a bounded buffer, and condition variables to manage concurrency.
 
-These projects enhanced my technical proficiency and demonstrated my ability to build and debug complex systems from the ground up.
+- Binary counter and LCD game using Arduino  
+- Password-protected lock system (keypad + LCD)  
+- Graham’s Scan Convex Hull visualization (Java + GUI)  
+- Water drainage simulation using Union-Find (Java)  
+- Assembly menu interface and message printing programs
 
 ---
 
@@ -62,7 +63,7 @@ These projects enhanced my technical proficiency and demonstrated my ability to 
 
 ---
 
-## 📬 Connect With Me  
+## Connect With Me  
 - **Email:** noellabuti@gmail.com  
 - **LinkedIn:** [linkedin.com/in/noellab](https://www.linkedin.com/in/noellab)  
 - **GitHub:** [github.com/NoellaButi](https://github.com/NoellaButi)

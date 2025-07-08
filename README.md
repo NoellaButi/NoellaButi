@@ -1,4 +1,4 @@
-# Hi, I'm Noëlla Buti
+# Hi, I'm Noëlla Buti  
 **Computer Science Graduate | Data Science Focus | Python & Machine Learning Practitioner | Project-Driven Problem Solver**
 
 I am a recent **Bachelor of Science in Computer Science** graduate with a **Data Science emphasis** from Bellevue College. I am passionate about leveraging data and technology to build practical, meaningful solutions that drive impact.
@@ -13,26 +13,29 @@ I have led and contributed to several technical projects focused on model develo
 - **Laptop Price Prediction Model**  
   Developed using Random Forest and Gradient Boosting (R² Score: 0.84). Focused on feature selection, data preprocessing, and model tuning.
 
-- **Income Classification using ID3 Algorithm (Assignment 2)**  
-  Implemented a decision tree from scratch using entropy and information gain to classify U.S. census income data (Accuracy: 82.35%).
+- **Income Classification using ID3 Algorithm**  
+  Implemented a decision tree classifier from scratch using entropy and information gain to predict U.S. census income categories (Accuracy: 82.35%).
 
 - **Digit Classification Neural Network**  
   Built a feedforward neural network using NumPy to classify handwritten digits from the MNIST dataset (Achieved 91.77% accuracy).
 
 - **Anime Synopsis Generator (Capstone Project)**  
-  Currently developing a prompt-based LSTM model to generate anime story synopses based on genre, theme, and demographic features.
+  Currently developing a prompt-based LSTM model to generate anime story synopses from structured user inputs, using cleaned and categorized datasets.
 
-- **mysh – Simple Command Shell in C (Assignment 1)**  
-  Designed and implemented a Unix-style command-line shell supporting built-in and external commands using `fork`, `execvp`, and `wait`.
+- **Multi-threaded Web Server (Assignment 2 – CS360)**  
+  Extended a single-threaded C web server into a multi-threaded version using POSIX threads, mutexes, and condition variables. Implemented thread pooling and a bounded buffer for concurrent request handling.
+
+- **mysh – Simple Command Shell in C (Assignment 1 – CS360)**  
+  Designed and implemented a Unix-style command-line shell supporting built-in commands (`cd`, `pwd`, `exit`) and external command execution via `fork`, `execvp`, and `wait`.
 
 - **Additional Projects**  
-  - LED binary counter and LCD game using Arduino  
-  - Password lock system with keypad & LCD  
+  - Binary counter and LCD game using Arduino  
+  - Password-protected lock system (keypad + LCD)  
   - Graham’s Scan Convex Hull visualization  
-  - Water drainage simulation using Union-Find in Java  
-  - Assembly language programs for menu interaction and system calls
+  - Water drainage simulation using Union-Find (Java)  
+  - Assembly menu interface and message printing programs
 
-These projects enhanced my technical proficiency and demonstrated my ability to work through complex problem-solving tasks from concept to execution.
+These projects enhanced my technical proficiency and demonstrated my ability to build and debug complex systems from the ground up.
 
 ---
 
@@ -59,7 +62,7 @@ These projects enhanced my technical proficiency and demonstrated my ability to 
 
 ---
 
-## Connect With Me  
+## 📬 Connect With Me  
 - **Email:** noellabuti@gmail.com  
 - **LinkedIn:** [linkedin.com/in/noellab](https://www.linkedin.com/in/noellab)  
 - **GitHub:** [github.com/NoellaButi](https://github.com/NoellaButi)

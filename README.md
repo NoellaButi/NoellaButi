@@ -1,69 +1,91 @@
-# Hi, I'm Noëlla Buti  
-**Computer Science Graduate | Data Science Focus | Python & Machine Learning Practitioner | Project-Driven Problem Solver**
+# 👋 Hi, I’m Noëlla Buti  
+**Computer Science Graduate | Data Science Emphasis | Python, ML, NLP | GPT-2 & LSTM Projects | Open to Full-Time & Internship Roles**
 
-I am a recent **Bachelor of Science in Computer Science** graduate with a **Data Science emphasis** from Bellevue College. I am passionate about leveraging data and technology to build practical, meaningful solutions that drive impact.
-
-Throughout my academic and project experience, I have developed strong foundations in Python programming, machine learning, data analysis, and algorithmic thinking. While I have gained significant experience, I remain committed to continuous learning and mastering new tools and technologies.
+I’m a recent **Bachelor of Science in Computer Science (Data Science Emphasis)** graduate from **Bellevue College**, passionate about using AI and data to build solutions with impact. I bring experience building models from scratch—including **LSTM**, **GPT-2**, **decision trees**, and **regression systems**—as well as a commitment to continuous learning and clean, documented code.
 
 ---
 
-## Selected Projects & Academic Work  
-I have led and contributed to several technical projects focused on model development, data pipelines, system simulation, and algorithm implementation:
+## 💡 Summary Highlights
 
-- **Laptop Price Prediction Model**  
-  Developed using Random Forest and Gradient Boosting (R² Score: 0.84). Focused on feature selection, data preprocessing, and model tuning.
-
-- **Income Classification using ID3 Algorithm**  
-  Implemented a decision tree classifier from scratch using entropy and information gain to predict U.S. census income categories (Accuracy: 82.35%).
-
-- **Digit Classification Neural Network**  
-  Built a feedforward neural network using NumPy to classify handwritten digits from the MNIST dataset (Achieved 91.77% accuracy).
-
-- **Anime Synopsis Generator (Capstone Project)**  
-  Designed and implemented a prompt-based LSTM model that generates anime story synopses based on genre, theme, and demographic prompts.  
-  🔗 [View Capstone Project on GitHub](https://github.com/YukiRivera/anime-story-generation)
+- Built and evaluated **NLP pipelines**, **ID3 decision trees**, **regression models**, and **custom neural networks** using Python, NumPy, TensorFlow/Keras, and scikit-learn  
+- Strong emphasis on **explainability**, **data visualization**, and **real-world evaluation metrics** like cosine similarity, perplexity, accuracy, and R²  
+- Passionate about AI for creativity and inclusion; open to **data science**, **ML**, **AI research**, and **technical internship roles**
 
 ---
 
-## Additional Projects  
-- **mysh – Simple Command Shell in C (Assignment 1 – CS360)**  
-  Created a custom Unix-style shell that supports built-in commands (`cd`, `pwd`, `exit`) and executes external programs using `fork`, `execvp`, and `wait`.
+## 💻 Key Projects
 
-- **Multi-threaded Web Server in C (Assignment 2 – CS360)**  
-  Converted a single-threaded web server to a multi-threaded architecture using POSIX threads, a bounded buffer, and condition variables to manage concurrency.
-
-- Binary counter and LCD game using Arduino  
-- Password-protected lock system (keypad + LCD)  
-- Graham’s Scan Convex Hull visualization (Java + GUI)  
-- Water drainage simulation using Union-Find (Java)  
-- Assembly menu interface and message printing programs
+### 🎯 [Anime Synopsis Generator – GPT-2, LSTM, BART (Capstone)](https://github.com/YukiRivera/anime-story-generation)  
+- Generated anime-style story synopses from user prompts using GPT-2, BART, and LSTM models  
+- Trained on 10K+ prompt–synopsis pairs and evaluated results using cosine similarity (0.293), perplexity (47.5), and UMAP  
+- Designed flexible prompts using genre, theme, and demographic tags for personalized story generation
 
 ---
 
-## Technical Skills  
-- **Languages:** Python, Java, C, Assembly, Arduino, R (beginner)  
-- **Tools:** Jupyter Lab, Google Colab, VS Code, Git, Eclipse  
-- **Libraries/Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, Plotly, Streamlit, TensorFlow/Keras
+### 🎯 [Laptop Price Prediction (Regression Model)](https://github.com/NoellaButi/Laptop_Price_Prediction)  
+- Built a regression pipeline using Random Forest and Gradient Boosting on 1,300+ laptops; achieved **R² = 0.84**  
+- Applied feature engineering (RAM, CPU, Storage), EDA, and hyperparameter tuning to improve accuracy  
+- Delivered insights with visualizations to support decision-making for tech buyers
 
 ---
 
-## Areas of Interest  
-- Machine Learning & Deep Learning (LSTM, Transformers)  
-- Data Visualization & Dashboards (Streamlit, Plotly)  
-- Software Engineering & System Design  
-- Game Development & Embedded Systems (Arduino, IoT)
+### 🎯 [Census Income Prediction – ID3 Decision Tree](https://github.com/NoellaButi/Census_Income_ID3)  
+- Implemented a decision tree classifier from scratch using entropy and information gain; achieved **82.35% accuracy**  
+- Built a CLI tool for batch classification and visualized results using Graphviz  
+- Applied pruning for improved generalization and interpretability
 
 ---
 
-## About Me  
-- I prioritize discipline, consistency, and goal-setting through fitness  
-- I’m inspired by creative storytelling, especially through anime and interactive media  
-- I value community engagement, mentorship, and personal growth  
-- I believe in combining technical skills with purpose-driven work
+### 🎯 [Digit Classification – Neural Network with NumPy](https://github.com/NoellaButi/Digit_Classification_NumPy)  
+- Built a 3-layer neural network (784-128-10) from scratch using NumPy to classify MNIST digits  
+- Achieved **91.77% accuracy** by implementing softmax, backpropagation, and stochastic gradient descent  
+- Demonstrated deep understanding of forward/backward passes and optimization
 
 ---
 
-## Connect With Me  
-- **Email:** noellabuti@gmail.com  
-- **LinkedIn:** [linkedin.com/in/noellab](https://www.linkedin.com/in/noellab)  
-- **GitHub:** [github.com/NoellaButi](https://github.com/NoellaButi)
+## 🔧 Systems & Low-Level Projects
+
+### 🐚 [mysh – Custom Unix Shell in C](https://github.com/NoellaButi/mysh)  
+- Created a lightweight command shell supporting built-in commands (`cd`, `pwd`, `exit`) and external program execution via `fork`, `execvp`, and `wait`
+
+### 🌐 [Multithreaded Web Server in C](https://github.com/NoellaButi/multithreaded-webserver)  
+- Converted a single-threaded web server into a concurrent model using POSIX threads and condition variables for efficient request handling
+
+---
+
+## ⚙️ Additional Projects
+
+- 🔢 [Convex Hull Visualization – Graham’s Scan (Java)](https://github.com/NoellaButi/ConvexHull-Grahams-Scan)  
+- 💧 [Water Drainage Simulation – Union-Find (Java)](https://github.com/NoellaButi/Water-Drainage-Simulation)  
+- 🔐 [Arduino LCD + Keypad Lock System](https://github.com/NoellaButi/Arduino-Projects)  
+- 🎮 [Binary Counter & LCD Game (Arduino)](https://github.com/NoellaButi/Arduino-Projects)  
+- 🧾 [Assembly Menu Interface & Message Printer](https://github.com/NoellaButi/Assembly-Menu-Programs)
+
+---
+
+## 🛠 Technical Skills
+
+**Languages:** Python, Java, C, Assembly, Arduino (C/C++), R (beginner)  
+**Frameworks/Libraries:** TensorFlow/Keras, scikit-learn, NumPy, Pandas, Hugging Face Transformers, Matplotlib, Streamlit, Plotly  
+**Tools:** Git, Jupyter Lab, Google Colab, VS Code, Arduino IDE, Graphviz  
+**Concepts:** Neural Networks, Decision Trees, Regression, Classification, NLP, Generative AI, Prompt Engineering
+
+---
+
+## 🎓 Education
+
+**Bellevue College – Bachelor of Science in Computer Science (Data Science Emphasis)**  
+*Sep 2021 – Jun 2025 | Bellevue, WA*  
+- Phi Theta Kappa Honor Society, Bellevue College Coding Competition (2025)  
+- Capstone: Anime Story Generator using LSTM, GPT-2, BART  
+
+---
+
+## 🌐 Let’s Connect
+
+- **📧 Email:** noellabuti@gmail.com  
+- **💼 LinkedIn:** [linkedin.com/in/noellab](https://www.linkedin.com/in/noellab)  
+- **💻 GitHub:** [github.com/NoellaButi](https://www.github.com/NoellaButi)
+
+---
+

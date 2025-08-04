@@ -25,7 +25,7 @@ I’m a recent **B.S. in Computer Science (Data Science Emphasis)** graduate fro
 - Engineered features (RAM, CPU, storage) and performed EDA + hyperparameter tuning  
 - Presented insights via visual reports to simulate business decision support
 
-### 🎯 [Census Income Prediction – ID3 Decision Tree](https://github.com/NoellaButi/Census_Income_ID3)  
+### 🎯 [Census Income Prediction – ID3 Decision Tree](https://github.com/NoellaButi/Census_Income_Prediction_Using_ID3_Algorithm)  
 - Built a decision tree classifier from scratch using entropy and information gain  
 - Achieved **82.35% accuracy**, implemented CLI classification and Graphviz visualization  
 - Applied pruning and manual validation for generalization

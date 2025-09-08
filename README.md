@@ -3,7 +3,7 @@
 💡 From data pipelines to web apps, from embedded hardware to playful games — I turn ideas into projects you can actually run.
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20There!%20I'm%20Noella%20✨&animation=fadeIn&type=waving&color=F75C7E&height=120&fontColor=ffffff" alt="wavy header"/>
+  <img src="https://capsule-render.vercel.app/api?text=Builder+of+Data,+Code,+and+Games!&animation=fadeIn&type=waving&color=F75C7E&height=120&fontColor=ffffff" alt="wavy header"/>
 </p>
 
 ---

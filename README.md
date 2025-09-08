@@ -89,7 +89,7 @@
 
   ![Streak](https://streak-stats.demolab.com?user=NoellaButi&theme=radical&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E)  
 
-- 🐍 Contribution Snake (auto-updates)  
+- 🐍 Contribution Snake
 
   ![Snake animation](https://raw.githubusercontent.com/NoellaButi/NoellaButi/output/github-contribution-grid-snake.svg)  
 

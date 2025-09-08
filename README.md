@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Builder+of+Data,+Code,+and+Games!&animation=fadeIn&type=waving&color=F75C7E&height=120&fontColor=ffffff" alt="wavy header"/>
 </p>
-
 ---
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=600&lines=Data+Science+📊;Software+%26+Hardware+💻;Games+%26+Graphics+🎮;Always+Learning+💡)

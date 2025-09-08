@@ -22,19 +22,30 @@
 
 # 📊 Data Science & AI
 
-*(Coming soon — projects will appear here with pink visuals and charts.)*  
+| Project | Status |
+|---------|--------|
+| Laptop Price Prediction | 🛠️ In progress |
+| Census Income (ID3) | 📝 Cleaning up |
+| Anime Story Generator | 📦 To be published |
 
 ---
 
 # 💻 Software & Hardware
 
-*(Coming soon — projects will appear here with screenshots and hardware demos.)*  
+| Project | Status |
+|---------|--------|
+| Lisanga Web App | 🛠️ In progress |
+| Arduino LCD Game | 📦 To be published |
+| Assembly Menu Program | 📦 To be published |
 
 ---
 
 # 🎮 Games & Graphics
 
-*(Coming soon — projects will appear here with Unity GIFs and graphics.)*  
+| Project | Status |
+|---------|--------|
+| Unity 2D Mini Game | 🛠️ In progress |
+| LED Patterns | 📦 To be published |
 
 ---
 
@@ -80,7 +91,17 @@
 
 - 🐍 Contribution Snake (auto-updates)  
 
-  ![Snake animation](https://github.com/NoellaButi/NoellaButi/blob/output/github-contribution-grid-snake.svg)  
+  ![Snake animation](https://raw.githubusercontent.com/NoellaButi/NoellaButi/output/github-contribution-grid-snake.svg)  
+
+---
+
+## 🔮 Roadmap
+
+- [x] Setup profile README  
+- [x] Contribution Snake 🐍  
+- [ ] Add first Data Science project repo  
+- [ ] Publish Arduino demo  
+- [ ] Upload Unity 2D mini game  
 
 ---
 

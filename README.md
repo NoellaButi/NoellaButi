@@ -2,65 +2,50 @@
 
 💡 From data pipelines to web apps, from embedded hardware to playful games — I turn ideas into projects you can actually run.
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey%20There!%20I'm%20Noella%20✨&animation=fadeIn&type=waving&color=F75C7E&height=120&fontColor=ffffff" alt="wavy header"/>
 </p>
 
-
 ---
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=600&lines=Data+Science+%F0%9F%93%8A;Software+%26+Hardware+%F0%9F%92%BB;Games+%26+Graphics+%F0%9F%8E%AE;Always+Learning+%F0%9F%92%A1)
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&width=600&lines=Data+Science+📊;Software+%26+Hardware+💻;Games+%26+Graphics+🎮;Always+Learning+💡)
 
 ---
 
 ## ✨ About this Profile
 
-- I organize my work into **three tracks**: Data, Software/Hardware, and Games.  
-
-- I keep it friendly for both tech & non-tech audiences with visuals, badges, and demos.  
-
-- Every repo I rebuild has clear docs, graphics, and runnable code.
-
+- Organized in **three tracks**: Data, Software/Hardware, and Games.  
+- Built with a **pink theme** to match my style.  
+- Repos and demos are being added step by step.  
 
 ---
 
 # 📊 Data Science & AI
 
-*(Coming soon — projects will appear here with pink visuals and charts.)*
-
+*(Coming soon — projects will appear here with pink visuals and charts.)*  
 
 ---
 
 # 💻 Software & Hardware
 
-*(Coming soon — projects will appear here with screenshots and hardware demos.)*
-
+*(Coming soon — projects will appear here with screenshots and hardware demos.)*  
 
 ---
 
 # 🎮 Games & Graphics
 
-*(Coming soon — projects will appear here with Unity GIFs and graphics.)*
-
+*(Coming soon — projects will appear here with Unity GIFs and graphics.)*  
 
 ---
 
 ## 🔧 How I Build
 
 - **Simple first.** Baselines before fancy.  
-
 - **Reproducible.** Seeds, configs, and version control.  
-
 - **Metric-driven.** Accuracy, FPS, latency, memory use.  
-
 - **Readable.** Docs + comments where they matter.  
-
 - **Tested.** Unit tests, lightweight CI.  
-
 - **Responsible.** I’m clear about limits & assumptions.  
-
 
 ---
 
@@ -76,7 +61,6 @@
 ![Unity](https://img.shields.io/badge/Game-Unity-F75C7E)  
 ![Arduino](https://img.shields.io/badge/Hardware-Arduino-F75C7E)  
 ![Git](https://img.shields.io/badge/Version-Git-F75C7E)  
-
 
 ---
 
@@ -98,9 +82,8 @@
 
   ![Snake animation](https://github.com/NoellaButi/NoellaButi/blob/output/github-contribution-grid-snake.svg)  
 
-
 ---
 
 ## 📬 Contact
 
-*(Contact links will be added later.)*
+*(Contact links will be added later.)*  

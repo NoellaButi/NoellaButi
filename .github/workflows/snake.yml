@@ -5,7 +5,6 @@ on:
     - cron: "0 */12 * * *"   # every 12 hours
   workflow_dispatch:
 
-# Ensure the token can push
 permissions:
   contents: write
 
@@ -13,13 +12,15 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake SVG
-        uses: Platane/snk/svg-only@v3
+      - name: Generate snake SVGs (pink theme)
+        uses: Platane/snk@v3
         with:
           github_user_name: NoellaButi
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=%23F75C7E&color_dots=%23FFE6EE,%23FFB3C7,%23FF7AA3,%23FF4D85,%23E6005A
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23F75C7E
 
-      - name: Publish SVG to output branch
+      - name: Publish SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output

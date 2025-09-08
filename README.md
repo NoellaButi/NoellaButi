@@ -40,7 +40,7 @@ Census Income (ID3)	Decision tree from scratch (entropy/info gain, pruning)	Pyth
 Anime Story Generation	Prompt→Synopsis with LSTM/GPT-2	Python, TensorFlow, Hugging Face	
 
 💻 SOFTWARE & HARDWARE
-ansi
+```ansi
 Copy code
 ███████╗ ██████╗  ██████╗ ██████╗ ██╗    ██╗███████╗██████╗ 
 ██╔════╝██╔═══██╗██╔════╝██╔═══██╗██║    ██║██╔════╝██╔══██╗

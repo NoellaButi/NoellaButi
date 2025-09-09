@@ -22,30 +22,30 @@
 
 # 📊 Data Science & AI
 
-| Project | Status |
-|---------|--------|
-| Laptop Price Prediction | 🛠️ In progress |
-| Census Income (ID3) | 📝 Cleaning up |
-| Anime Story Generator | 📦 To be published |
+| Project                | Status        | Link |
+|------------------------|---------------|------|
+| Laptop Price Prediction | ✅ Published | [Live App](https://laptop-prediction-prices.streamlit.app/) · [Repo](https://github.com/NoellaButi/ai-ml-laptop-price) |
+| Census Income (ID3)    | 📝 Cleaning up | [Repo](https://github.com/NoellaButi/Census-Income-ID3) |
+| Anime Story Generator  | 📦 To be published | Coming soon |
 
 ---
 
 # 💻 Software & Hardware
 
-| Project | Status |
-|---------|--------|
-| Lisanga Web App | 🛠️ In progress |
-| Arduino LCD Game | 📦 To be published |
-| Assembly Menu Program | 📦 To be published |
+| Project              | Status         | Link |
+|----------------------|---------------|------|
+| Lisanga Web App      | 🛠️ In progress | [Repo](https://github.com/NoellaButi/Lisanga) |
+| Arduino LCD Game     | 📦 To be published | Coming soon |
+| Assembly Menu Program| 📦 To be published | Coming soon |
 
 ---
 
 # 🎮 Games & Graphics
 
-| Project | Status |
-|---------|--------|
-| Unity 2D Mini Game | 🛠️ In progress |
-| LED Patterns | 📦 To be published |
+| Project             | Status         | Link |
+|---------------------|---------------|------|
+| Unity 2D Mini Game  | 🛠️ In progress | Coming soon |
+| LED Patterns        | 📦 To be published | Coming soon |
 
 ---
 
@@ -99,8 +99,9 @@
 
 - [x] Setup profile README  
 - [x] Contribution Snake 🐍  
-- [ ] Add first Data Science project repo  
-- [ ] Publish Arduino demo  
+- [x] Add first Data Science project repo  
+- [x] Publish **Laptop Price Predictor** 🎉  
+- [ ] Add Arduino demo  
 - [ ] Upload Unity 2D mini game  
 
 ---

@@ -25,7 +25,7 @@
 | Project                | Status        | Link |
 |------------------------|---------------|------|
 | Laptop Price Prediction | ✅ Published | [Live App](https://laptop-prediction-prices.streamlit.app/) · [Repo](https://github.com/NoellaButi/ai-ml-laptop-price) |
-| Census Income (ID3)    | 📝 Cleaning up | [Repo](https://github.com/NoellaButi/Census-Income-ID3) |
+| Census Income (ID3)    | 📝 Cleaning up | [Repo](https://github.com/NoellaButi/ai-ml-id3-census-income) |
 | Anime Story Generator  | 📦 To be published | Coming soon |
 
 ---

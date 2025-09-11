@@ -65,20 +65,9 @@
 
 ---
 
-## 🛠️ Tech I Use
+## 🛠️ Tech I Use  
 
-![Python](https://img.shields.io/badge/Python-3.x-F75C7E)  
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-F75C7E)  
-![TensorFlow](https://img.shields.io/badge/ML-TensorFlow-F75C7E)  
-![PyTorch](https://img.shields.io/badge/ML-PyTorch-F75C7E)  
-![Transformers](https://img.shields.io/badge/NLP-Transformers-F75C7E)  
-![Flask](https://img.shields.io/badge/Web-Flask-F75C7E)  
-![FastAPI](https://img.shields.io/badge/Web-FastAPI-F75C7E)  
-![Streamlit](https://img.shields.io/badge/Web-Streamlit-F75C7E)  
-![Unity](https://img.shields.io/badge/Game-Unity-F75C7E)  
-![Arduino](https://img.shields.io/badge/Hardware-Arduino-F75C7E)  
-![Git](https://img.shields.io/badge/Version-Git-F75C7E)  
-![Linux](https://img.shields.io/badge/OS-Linux-F75C7E)  
+![Python](https://img.shields.io/badge/Python-3.x-F75C7E) ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-F75C7E) ![TensorFlow](https://img.shields.io/badge/ML-TensorFlow-F75C7E) ![PyTorch](https://img.shields.io/badge/ML-PyTorch-F75C7E) ![Transformers](https://img.shields.io/badge/NLP-Transformers-F75C7E) ![Flask](https://img.shields.io/badge/Web-Flask-F75C7E) ![FastAPI](https://img.shields.io/badge/Web-FastAPI-F75C7E) ![Streamlit](https://img.shields.io/badge/Web-Streamlit-F75C7E) ![Unity](https://img.shields.io/badge/Game-Unity-F75C7E) ![Arduino](https://img.shields.io/badge/Hardware-Arduino-F75C7E) ![Git](https://img.shields.io/badge/Version-Git-F75C7E) ![Linux](https://img.shields.io/badge/OS-Linux-F75C7E)  
 
 ---
 
@@ -115,7 +104,7 @@
 
 ---
 
-## 📬 Contact
+## 📬 Contact  
 
 📧 **noellabuti@gmail.com**  
 🔗 [LinkedIn](https://www.linkedin.com/in/noellabuti)  

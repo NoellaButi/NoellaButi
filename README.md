@@ -7,8 +7,8 @@ From data pipelines to web apps, from embedded hardware to playful games — I t
 </p>
 
 ![Focus](https://img.shields.io/badge/focus-Data%20Science%20%7C%20Software%20Systems%20%7C%20Games-F75C7E)
-![Location](https://img.shields.io/badge/location-Seattle%20Area-FF7AA2)
-![Open to](https://img.shields.io/badge/open%20to-Internships%20%26%20New%20Grad-9B5DE5)
+![Location](https://img.shields.io/badge/location-Bellevue%20Area-FF7AA2)
+![Open to](https://img.shields.io/badge/open%20to-Internships%20%26%20Entry%20Level-9B5DE5)
 
 ---
 

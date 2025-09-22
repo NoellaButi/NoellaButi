@@ -29,13 +29,14 @@ From data pipelines to web apps, from embedded hardware to playful games — I t
 ### Data Science & AI
 | Project | What it is | Links |
 |---|---|---|
-| **Laptop Price Prediction 💻💶** | Predict laptop prices (€) from specs (EDA → models → Streamlit). | [Live App](https://laptop-prediction-prices.streamlit.app/) · [Repo](https://github.com/NoellaButi/ai-laptop-price-prediction) |
+| **Laptop Price Prediction 💻💶** | Predict laptop prices (€) from specs (EDA → models → Streamlit). | [Live](https://laptop-prediction-prices.streamlit.app/) · [Repo](https://github.com/NoellaButi/ai-laptop-price-prediction) |
 | **ID3 Decision Tree 🌳💼** | ID3 from scratch on Census Income with metrics & Graphviz. | [Repo](https://github.com/NoellaButi/ai-id3-census-income) |
 | **MNIST MLP (NumPy) 🔢🧠** | Manual backprop MLP (no frameworks) + artifacts & plots. | [Repo](https://github.com/NoellaButi/ai-mnist-mlp-fromscratch) |
-| **MNIST CNN (TF/Streamlit) 🧠✍️** | TensorFlow CNN + web app to draw/upload digits. | [Live App](https://ai-mnist-tf-noella-buti.streamlit.app) · [Repo](https://github.com/NoellaButi/ai-mnist-tf) |
-| **Anime Story Generator 🎬✨** | Capstone project: generate anime storylines, characters, and visuals using datasets + GPT-2/LSTMs + optional Stable Diffusion. | [Report (PDF)](./Final_Report.pdf) · [Repo (fork)](https://github.com/NoellaButi/anime-story-generator) |
+| **MNIST CNN (TF/Streamlit) 🧠✍️** | TensorFlow CNN + web app to draw/upload digits. | [Live](https://ai-mnist-tf-noella-buti.streamlit.app) · [Repo](https://github.com/NoellaButi/ai-mnist-tf) |
+| **Anime Story Generator 🎬✨** | Capstone project: generate anime storylines, characters, and visuals using datasets + GPT-2/LSTMs + optional Stable Diffusion. | [Repo](https://github.com/NoellaButi/anime-story-generator) |
 
 > Capstone note: This was a **two-person group project**. The original repo lives on Yuki’s GitHub (Project Lead).  
+
 > My fork highlights **my contributions**: dataset cleaning/EDA, feature engineering, storyline modeling (LSTM/Hybrid/T5/GPT-2), evaluation metrics.
 
 ### Software & Systems
@@ -48,11 +49,9 @@ From data pipelines to web apps, from embedded hardware to playful games — I t
 ### Games & Graphics
 | Project | What it is | Links |
 |---|---|---|
-| **Game Arcade 🎮** | 10 mini-games playable via Streamlit or CLI. | [Live (Streamlit)](https://game-arcade-noella-buti.streamlit.app) · [Repo](https://github.com/NoellaButi/game-arcade) |
+| **Game Arcade 🎮** | 10 mini-games playable via Streamlit or CLI. | [Live](https://game-arcade-noella-buti.streamlit.app) · [Repo](https://github.com/NoellaButi/game-arcade) |
 | **Unity 2D Mini Game 🎲** | Small 2D prototype (WIP). | Coming soon |
 | **Screen Pet 🐾 / Generative Art 🎨** | Fun experiments. | Coming soon |
-
-> Capstone note: **Anime Story Generation System** (BART/T5/GPT-2) was a **two-person** project. Original repo by Yuki (Project Lead); my fork highlights my contributions (EDA, feature engineering, LSTM/Hybrid/T5/GPT-2, metrics).
 
 ---
 

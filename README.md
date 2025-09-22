@@ -102,11 +102,5 @@ Every repo here reflects something I was curious about and turned into a working
 ---
 
 ## 📬 Contact
-<p align="center">
-  <a href="mailto:noellabuti@gmail.com?subject=Hello%20Noella%20—%20from%20GitHub&body=Hi%20Noella%2C%0A">
-    <img alt="Email" src="https://img.shields.io/badge/Email-noellabuti%40gmail.com-ff69b4?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/noellabuti">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-noellabuti-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</p>
+[![Email](https://img.shields.io/badge/Email-noellabuti%40gmail.com-ff69b4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noellabuti@gmail.com?subject=Hello%20Noella%20—%20from%20GitHub&body=Hi%20Noella%2C%0A)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-noellabuti-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noellabuti)

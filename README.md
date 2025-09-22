@@ -84,7 +84,6 @@ From data pipelines to web apps, from embedded hardware to playful games — I t
 ---
 
 ## 🌈 Dynamic & Fun
-
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NoellaButi&theme=flat&title=Commit,Stars,Repositories,PullRequest&margin-w=15&margin-h=15&no-frame=true&column=4&no-bg=true&color=F75C7E)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=NoellaButi&show_icons=true&theme=radical&title_color=F75C7E&icon_color=F75C7E&text_color=ffffff&bg_color=141321)  

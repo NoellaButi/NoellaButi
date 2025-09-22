@@ -88,6 +88,7 @@ From data pipelines to web apps, from embedded hardware to playful games — I t
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=NoellaButi&theme=flat&title=Commit,Stars,Repositories,PullRequest&margin-w=15&margin-h=15&no-frame=true&column=4&no-bg=true&color=F75C7E)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=NoellaButi&show_icons=true&theme=radical&title_color=F75C7E&icon_color=F75C7E&text_color=ffffff&bg_color=141321)  
+
 ![Streak](https://streak-stats.demolab.com?user=NoellaButi&theme=radical&ring=F75C7E&fire=F75C7E&currStreakLabel=F75C7E)
 
 ![Snake animation](https://raw.githubusercontent.com/NoellaButi/NoellaButi/output/github-contribution-grid-snake.svg)

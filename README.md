@@ -29,7 +29,7 @@ From data pipelines to web apps, from embedded hardware to playful games — I t
 ### Data Science & AI
 | Project | What it is | Links |
 |---|---|---|
-| **Laptop Price Prediction 💻💶** | Predict laptop prices (€) from specs (EDA → models → Streamlit). | [Live App](https://laptop-prediction-prices.streamlit.app/) · [Repo](https://github.com/NoellaButi/ai-laptop-price-prediction) |
+| **Laptop Price Prediction 💻💶** | Predict laptop prices (€) from specs (EDA → models → Streamlit). | [Live App](https://laptop-prediction-prices-noella-buti.streamlit.app/) · [Repo](https://github.com/NoellaButi/ai-laptop-price-prediction) |
 | **ID3 Decision Tree 🌳💼** | ID3 from scratch on Census Income with metrics & Graphviz. | [Repo](https://github.com/NoellaButi/ai-id3-census-income) |
 | **MNIST MLP (NumPy) 🔢🧠** | Manual backprop MLP (no frameworks) + artifacts & plots. | [Repo](https://github.com/NoellaButi/ai-mnist-mlp-fromscratch) |
 | **MNIST CNN (TF/Streamlit) 🧠✍️** | TensorFlow CNN + web app to draw/upload digits. | [Live App](https://ai-mnist-tf-noella-buti.streamlit.app) · [Repo](https://github.com/NoellaButi/ai-mnist-tf) |
